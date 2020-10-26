@@ -11,6 +11,7 @@ const Services = () => (
       </div>
       <div className="flex flex-col flex-wrap lg:py-6 -mb-10 lg:w-1/2 lg:pl-12 lg:text-left text-center">
         <img
+          loading="lazy"
           alt="feature"
           className="object-cover object-center h-full w-full rounded-lg"
           src="/code.jpg"
