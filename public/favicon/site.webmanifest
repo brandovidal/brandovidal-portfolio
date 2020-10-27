@@ -1,1 +1,20 @@
-https://uploads.codesandbox.io/uploads/user/68d4e3e7-968d-484e-a6ae-8a7825fe6885/2bg5-site.webmanifest
+{
+    "name": "Brando Vidal",
+    "short_name": "Brando Vidal",
+    "icons": [
+        {
+            "src": "/favicon/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/favicon/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#222222",
+    "background_color": "#222222",
+    "start_url": "https://brandovidal.com",
+    "display": "standalone"
+}
